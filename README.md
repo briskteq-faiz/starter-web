@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ##Deployment
 
 This is a sample, Deployment can be done on any web server or even local file system.
+
+###Copyright
+
+Git.training 2023
