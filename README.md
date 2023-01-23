@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-Deployment can be done on any web server or even local file system.
+This is a sample, Deployment can be done on any web server or even local file system.
