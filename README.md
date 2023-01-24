@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 
 This is a sample, Deployment can be done on any web server or even local file system.
 
+##How To Contribute
+
+Please fork this repository and then issue Pull request for review
+
 ###Copyright
 
 Git.training 2023
